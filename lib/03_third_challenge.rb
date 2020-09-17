@@ -3,11 +3,9 @@ def third_challenge
    :montague => {
       :patriarch => {name:
       "Lord Montague", age: "53"
-        #your key/value pairs here
         },
       :matriarch => {name:
-      "Lady Montague", age: "54"},
-        #your k
+      "Lady Montague", age: "54"
         },
       :hero => {name:
       "Romeo", age: "15", status:
@@ -21,12 +19,10 @@ def third_challenge
         },
       :matriarch => {name:
       "Lady Capulet", age: "51"
-        #your key/value pairs here
         },
       :heroine => {name: 
       "Juliet", age: "15", status:
       "alive"
-        #your key/value pairs here
         },
       :heroine_friends => []
    }
